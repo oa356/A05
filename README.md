@@ -54,7 +54,7 @@
     <img src="brancaccio75.jpg" alt="David Brancaccio" class="speaker-img">
     
     <footer>
-        <p>&copy; 2022, San Joaquin Valley Town Hall, Fresno, CA 93755</p>
+        <p>&copy; 2025, Olumuyiwa Akinde, oa356</p>
     </footer>
 </body>
 </html>
