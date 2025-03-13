@@ -19,9 +19,17 @@
             list-style-type: disc;
             margin-left: 20px;
         }
+        .logo {
+            display: block;
+            margin-bottom: 20px;
+        }
+        .speaker-img {
+            margin-top: 10px;
+        }
     </style>
 </head>
 <body>
+    <img src="town_hall_logo.gif" alt="San Joaquin Valley Town Hall Logo" class="logo">
     <h1>San Joaquin Valley Town Hall</h1>
     <h2>Celebrating our <span class="bold">75<sup>th</sup> Year</span></h2>
     
@@ -43,6 +51,7 @@
     <h2>This season's guest speakers</h2>
     <h3>October</h3>
     <p><a href="#">David Brancaccio</a></p>
+    <img src="brancaccio75.jpg" alt="David Brancaccio" class="speaker-img">
     
     <footer>
         <p>&copy; 2022, San Joaquin Valley Town Hall, Fresno, CA 93755</p>
